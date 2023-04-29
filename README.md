@@ -6,7 +6,7 @@ This is a Python application uses tmdb, PySide6, and pil to select either a comp
 
 Download the whole project as a zip and extract the zip wherever you like. This program is also tested only with Python 3.9.13 We can not promise that it will work with later versions.
 
-You will need to install PySide6, Pillow, and tmdbSimple using the pip command.
+You will need to install PySide6, Pillow, and tmdbSimple using the following pip commands.
 ```
 pip install pyside6
 
