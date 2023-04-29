@@ -27,7 +27,7 @@ You can also just double-click the main.py file.
 
 ## The Team
 
-We are a team of five who worked together to put out this product. We are Samuel Jackson, Will Critendon, Cristopher Hattan, and Luke Jordan.
+We are a team of five who worked together to put out this product. We are Samuel Jackson, Will Crittenden, Christopher Hattan, and Luke Jordan.
 Luke and Will were involved in creating the front end of the application, while Sam and Chris were charged with the logic.
 
 
